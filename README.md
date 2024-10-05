@@ -63,7 +63,7 @@ Where:
 ### Example
 
 ```bash
-python3 ipgeotrack.py Geolocation 20240901 169.150.218.58
+python3 ipgeotrack.py 20240901 169.150.218.58
 ```
 
 **Expected Output:**
